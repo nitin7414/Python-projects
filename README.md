@@ -1,1 +1,1 @@
-# Python-projects
+Hey everyone, This is the repository where i post my python projects. These are some basic and cool projects, written in very easy to understand language......Any suggestion and improvment is welcomed ;)
